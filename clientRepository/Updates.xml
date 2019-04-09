@@ -1,0 +1,20 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>Basic4x4</Name>
+  <DisplayName>Basic4x4 component</DisplayName>
+  <Description>This component is uncheckable.</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2015-12-01</ReleaseDate>
+  <SortingPriority>40</SortingPriority>
+  <Checkable>false</Checkable>
+  <UpdateFile UncompressedSize="56605917" CompressedSize="15509593" OS="Any"/>
+  <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License name="License agreement" file="license.txt"/>
+  </Licenses>
+  <SHA1>3ef56b443d43c3d49ee983d7d1f5e6cd6280e30b</SHA1>
+ </PackageUpdate>
+</Updates>
