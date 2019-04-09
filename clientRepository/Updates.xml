@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?> 
 <Updates>
- <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationName>{Basic4x4}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
